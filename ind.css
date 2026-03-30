@@ -1,0 +1,23 @@
+#white{
+    background-color: white;
+     height: 100vh; 
+}
+   #black{
+        background-color: black;
+        color: white;
+        height: 100vh;
+        
+    }
+    #gray{
+        background-color: gray;
+        height: 100vh;
+    }
+    body{
+        background-color: rgb(222, 247, 222);
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        direction: row;
+        height: 100vh;
+        
+    }
